@@ -1,0 +1,27 @@
+[
+      {
+      	 "type":"Credit",
+         "commentaire":"",
+         "montant":20,
+         "numCompteCible":2
+      },
+      {
+       	 "type":"Credit",
+         "commentaire":"",
+         "montant":200,
+         "numCompteCible":3
+      },
+      {
+      	 "type":"Debit",
+         "commentaire":"",
+         "montant":350,
+         "numCompteCible":7
+      },
+      {
+      	 "type":"Virement",
+         "commentaire":"",
+         "montant":20000,
+         "numCompteCible":0,
+         "numCompteEmetteur":1
+      }
+]

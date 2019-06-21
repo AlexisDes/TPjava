@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <CompteEpargne>
+      <libelle >compte Epargne</libelle>
+      <client>2</client>
+   </CompteEpargne>
+   <CompteEpargne>
+      <libelle >compte epargne</libelle>
+      <client>3</client>
+   </CompteEpargne>
+   <CompteCourant>
+     <libelle >compte courant</libelle>
+      <client>0</client>
+   </CompteCourant>
+</root>
